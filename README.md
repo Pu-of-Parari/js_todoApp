@@ -7,7 +7,7 @@ https://jsprimer.net/use-case/nodecli/
 ## Usage
 on terminal:
 ```
-$ cd todoApp/
+$ cd js_todoApp/
 $ npx @js-primer/local-server
 ```
 
